@@ -14,8 +14,9 @@
 
 ## 代码运行效果预览
 ### imageView截图
-![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/a91d08d0-ff95-40ea-9357-1d3aa8c0456a.jpeg)
+<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/a91d08d0-ff95-40ea-9357-1d3aa8c0456a.jpeg" width="220" height="400" >
+
 ### MP4格式视频流截屏
-![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/cc1ee8df-4cdc-4e59-b140-66b5de6e210a.jpeg)
+<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/cc1ee8df-4cdc-4e59-b140-66b5de6e210a.jpeg" width="220" height="400" >
 ### m3u8格式视频流截屏
-![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/51598260-54d9-49c3-8041-88bce207a4a7.jpeg)
+<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/51598260-54d9-49c3-8041-88bce207a4a7.jpeg" width="220" height="400" >
