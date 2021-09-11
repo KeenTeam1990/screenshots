@@ -20,3 +20,9 @@
 <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/cc1ee8df-4cdc-4e59-b140-66b5de6e210a.jpeg" width="220" height="400" >
 ### m3u8格式视频流截屏
 <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f92a0e71-a10b-4097-af0d-93aa474b1716/51598260-54d9-49c3-8041-88bce207a4a7.jpeg" width="220" height="400" >
+
+##  License
+- 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
+- 如果您有什么好的建议也可以提issue,大家一起讨论一起学习进步...
+- [有兴趣可以加下创建的QQ群:812144991(因为工作很忙所以可能问问题没人回答!!)](//shang.qq.com/wpa/qunwpa?idkey=ebd8d6809c83b4d6b4a18b688621cb73ded0cce092b4d1f734e071a58dd37c26) <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=294005139&site=qq&menu=yes"></a>
+- The MIT License (MIT)                  Copyright (c) 2014 KEENTEAM
