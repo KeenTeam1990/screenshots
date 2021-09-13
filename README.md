@@ -25,4 +25,4 @@
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 - 如果您有什么好的建议也可以提issue,大家一起讨论一起学习进步...
 - [有兴趣可以加下创建的QQ群:812144991(因为工作很忙所以可能问问题没人回答!!)](//shang.qq.com/wpa/qunwpa?idkey=ebd8d6809c83b4d6b4a18b688621cb73ded0cce092b4d1f734e071a58dd37c26) <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=294005139&site=qq&menu=yes"></a>
-- The MIT License (MIT)                  Copyright (c) 2014 KEENTEAM
+- The MIT License (MIT)    Copyright (c) 2014 KEENTEAM
